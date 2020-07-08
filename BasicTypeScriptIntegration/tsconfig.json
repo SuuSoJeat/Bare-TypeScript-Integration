@@ -1,0 +1,19 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "ESNext",
+    "outDir": "wwwroot/js",
+    "moduleResolution": "Node",
+    "strict": true,
+    "module": "ESNext",
+    "types": ["node"]
+    
+  },
+  "include": [
+    "scripts/**/*"
+  ]
+}
